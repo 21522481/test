@@ -11,6 +11,6 @@ package javaapplication6.moi;
 public class main {
 
     public static void main(String[] args) {
-        
+        int n;
     }
 }
