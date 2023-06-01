@@ -10,4 +10,5 @@ package javaapplication6.moi;
  */
 public class main {
     int x;
+    String s;
 }
