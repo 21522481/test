@@ -9,5 +9,5 @@ package javaapplication6.moi;
  * @author 84348
  */
 public class main {
-    
+    int x;
 }
