@@ -9,5 +9,8 @@ package javaapplication6.moi;
  * @author 84348
  */
 public class main {
-    
+
+    public static void main(String[] args) {
+        
+    }
 }
