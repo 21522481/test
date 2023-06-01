@@ -10,4 +10,5 @@ package javaapplication6.moi;
  */
 public class moi {
     int n;
+    int m;
 }
